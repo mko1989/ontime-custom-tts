@@ -29,6 +29,9 @@ This is a demo application that demonstrates the Text-to-Speech (TTS) feature fo
 - Triggers TTS when parsed seconds are below the configured threshold
 - Speaks only the numerical seconds value (e.g., "10" instead of "10 seconds")
 
+<img width="1432" height="693" alt="Screenshot 2025-12-18 at 16 51 20" src="https://github.com/user-attachments/assets/057dc372-1aa5-47f7-812f-e5493da4258b" />
+
+
 ## Configuration
 
 Each monitored field can be configured with:
